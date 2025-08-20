@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi there, it's me Lekani! 👋😊  
 
-<!--
-**xLekani/xLekani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a ✨ _Systems Engineer_ ✨ working in Aerospace & Defense!  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## A Little About Me ...
+
+- 🌍 Malawian-American  
+- 🌞 Optimist
+-  🎧 Music enthusiast - Check out my [Apple Playlist](https://music.apple.com/profile/XLEKANI) 🎶
+-  🕊 Guided by **Faith, Stewardship, and Discipline**
+
+
+## Goals  ...
+
+- 🐍 Master **Python**  
+- 🦊 Learn **GitLab** inside and out  
+- 🫡 Contribute to open-source & share learnings  
+- 🌱 Grow in **Systems Engineering, DevOps, Cloud & Security**<br><br>
+
+
+
+
+"I'm Just a girl" (—not in captivity, just in Tech). 🤘😝 
+
+
