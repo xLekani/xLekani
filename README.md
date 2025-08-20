@@ -5,18 +5,24 @@ I'm a ✨ _Systems Engineer_ ✨ working in Aerospace & Defense!
 
 ## A Little About Me ...
 
-- 🌍 Malawian-American  
-- 🌞 Optimist
--  🎧 Music enthusiast - Check out my [Apple Playlist](https://music.apple.com/profile/XLEKANI) 🎶
--  🕊 Guided by **Faith, Stewardship, and Discipline**
+🌴 Malawian-American 
+ 
+🌞 Optimist
+
+🎧 Music enthusiast 👉 Check out my [Apple Playlist](https://music.apple.com/profile/XLEKANI) 🎶
+
+🕊 Guided by **Faith, Stewardship, and Discipline**
 
 
 ## Goals  ...
 
-- 🐍 Master **Python**  
-- 🦊 Learn **GitLab** inside and out  
-- 🫡 Contribute to open-source & share learnings  
-- 🌱 Grow in **Systems Engineering, DevOps, Cloud & Security**<br><br>
+🐍 Master **Python**  
+
+🦊 Learn **GitLab** inside and out
+
+🫡 Contribute to open-source & share learnings
+
+🌱 Grow in **Systems Engineering, DevOps, Cloud & Security**<br><br>
 
 
 
