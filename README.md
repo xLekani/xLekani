@@ -120,7 +120,6 @@ Heritage:       Malawian–American
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lekani-sulaimana-csm-3b9943137/)
 
-"I'm Just a girl" (—not in captivity, just in Tech). 🤘😝 
 
 </div>
 
