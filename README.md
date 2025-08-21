@@ -18,7 +18,7 @@ I'm a ✨ _Systems Engineer_ ✨ working in Aerospace & Defense!
 
 🐍 Master **Python**  
 
-🦊 Learn **GitLab** inside and out
+🦊 Learn **GitHub & GitLab** inside and out
 
 🫡 Contribute to open-source & share learnings
 
