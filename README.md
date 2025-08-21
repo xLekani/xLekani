@@ -105,7 +105,7 @@ Heritage:       Malawian–American
 
 **Music Enthusiast** | Check out my [Apple Music Playlist](https://music.apple.com/profile/XLEKANI) 🎶  
 💛 **Servant heart**, I love giving back through mentoring and volunteering:  
-   Collins Aerospace NCAT Student Campus Ambassador (2025),  
+   Collins Aerospace NCAT Campus Student Ambassador Lead (2025),  
    2023 Sport A Shirt Captain with Ronald McDonald House Charities,  
    Volunteer with Miracle League of the Triangle,  
    and Girls Who Code Summer Immersion Camp.  
