@@ -1,4 +1,6 @@
-## Hi there, it's me Lekani! 👋😊  
+<p align="center">## Hi there, it's me Lekani! 👋😊</p>
+
+  
 
 I'm a ✨ _Systems Engineer_ ✨ working in Aerospace & Defense!  
 
