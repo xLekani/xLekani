@@ -4,6 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E06C75&center=true&vCenter=true&width=435&lines=Systems+Engineer+%7C+Aerospace+%26+Defense;Python+Enthusiast+%7C+DevOps+Explorer;Open+Source+Contributor;Faith%2C+Stewardship%2C+Discipline)](https://git.io/typing-svg)
 
+I'm a ✨ Systems Engineer ✨ working in Aerospace & Defense!
+
 </div>
 
 ---
