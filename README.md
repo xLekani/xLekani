@@ -1,4 +1,4 @@
-<h2 align="center">Hi, it's me Lekani! 👋😊</h2>
+<h1 align="center">Hi, it's me Lekani! 👋😊</h1>
   
 
 I'm a ✨ _Systems Engineer_ ✨ working in Aerospace & Defense!  
